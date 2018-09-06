@@ -18,13 +18,14 @@
         "php": "^7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "^7.0",
+        "symfony/var-dumper": "^4.2@dev"
     },
     "autoload": {
         "classmap": [
         ],
         "psr-4": {
-            "Codesum\\PoorDb\\": "src/"
+            "Codesum\\PoorDB\\": "src/"
         },
         "files": [
         ]
