@@ -1,3 +1,3 @@
 # PoorDB
 
-A lightweight PHP Based JSON Storage for Poor Developers
+A lightweight PHP based JSON storage for poor developers
