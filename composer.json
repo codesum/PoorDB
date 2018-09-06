@@ -1,7 +1,7 @@
 {
     "name": "codesum/poordb",
     "description": "PHP based JSON storage for poor developer",
-    "keywords": "php, json, jsondb, db, storage",
+    "keywords": ["php", "json", "db", "jsondb", "storage"],
     "type": "library",
     "license": "MIT",
     "authors": [
