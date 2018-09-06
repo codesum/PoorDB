@@ -1,10 +1,7 @@
 {
     "name": "codesum/poordb",
-    "description": "PHP Based JSON Storage",
+    "description": "PHP based JSON storage for poor developer",
     "type": "library",
-    "require": {
-        "php": "7.0"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -16,5 +13,20 @@
             "email": "shaon.cse81@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "Codesum\\PoorDb\\": "src/"
+        },
+        "files": [
+        ]
+    },
     "minimum-stability": "dev"
 }
