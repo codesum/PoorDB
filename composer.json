@@ -1,0 +1,16 @@
+{
+    "name": "codesum/poordb",
+    "description": "PHP Based JSON Storage",
+    "type": "library",
+    "require": {
+        "php": "7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nahid Bin Azhar",
+            "email": "nahid.dns@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
